@@ -1,3 +1,7 @@
 if game.PlaceId == 10449761463 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/melissaxe4-droid/loader/main/tsb.lua"))()
+elseif game.PlaceId == 18687417158 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/melissaxe4-droid/loader/refs/heads/main/Forsaken.lua"))()
+elseif game.PlaceId == 142823291 then -- MM2
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/melissaxe4-droid/loader/refs/heads/main/mm2.lua"))()
 end
